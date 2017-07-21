@@ -1,0 +1,2 @@
+class Sandal < ApplicationRecord
+end
